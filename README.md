@@ -1,19 +1,15 @@
-# live-chat
+# Play/Date MVP
 
-## Project setup
-```
-npm install
-```
+## Components
+1. User-Auth (Firebase Auth)
+2. Database (Firestore)
+3. Live-Chat 
+4. Geolocation (Leaflet.js)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## To-Do (November 2021 - December 2021)
+1. Add Leaflet maps to live-chat
+2. Combine user-auth, live-chat, and geolocation into one web app (Vue.js)
+3. Connect app to domain (playdate.work)
+4. Improve features
+5. Add new features
+6. Write out Documentation
